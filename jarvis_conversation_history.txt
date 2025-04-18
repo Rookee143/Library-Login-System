@@ -1,0 +1,27 @@
+User: search fro srk
+User: exit
+User: search for srk
+User: search for srk
+User: play playdate song
+User: play a song
+User: song
+JARVIS: Didn't understand that.
+User: play online song playdate
+User: play shape of you
+User: exit
+User: play shape of you
+User: play blinding by lights
+User: exit
+User: search for pavan kalyan
+User: play shape of you
+User: search about  miya khalifa
+User: search for mia khalifa 
+User: exit
+User: exit
+User: play shape of you
+User: exit
+User: close
+JARVIS: Didn't understand that.
+User: exit
+User: play kesariya
+User: play shape of you

@@ -1,0 +1,19 @@
+User: a good morning
+Booster: Didn't understand that!
+User: nokia work and action
+Booster: Didn't understand that!
+User: nokia work and action
+Booster: Didn't understand that!
+User: play a song
+User: bangladeshi
+Booster: Didn't understand that!
+User: song play hindi youtube audio
+User: search for a celebrity
+User: search for shahrukh khan
+User: asus phone
+Booster: Didn't understand that!
+User: i told you to stop
+User: play playdate song
+User: tell me a joke
+Booster: Didn't understand that!
+User: exit
